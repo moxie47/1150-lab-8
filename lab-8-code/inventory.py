@@ -5,6 +5,8 @@
 #   Implements a simple inventory tracking program using
 #       dictionaries.
 
+# testing git stuff...
+
 def getCommand():
     command = input("Enter command: ")
     return command
